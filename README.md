@@ -5,7 +5,7 @@ Favor preencher o formulário para efetuar a [Matrícula]() em
  * Inf790 - Tópicos Especiais I - Seminários em Aprendizado de Máquina
 
 As disciplinas são independentes. A disciplina inf790 complementa Inf792 com uma série de seminários com palestrantes especialistas em vários dominios. 
-Os temas e palestrantes estão disponíveis [neste link]().
+Os temas e palestrantes estão disponíveis [neste link](https://github.com/arduinoufv/inf792/tree/main).
 
 A ementa de inf792 está disponível [neste link]() e a proposta detalhada nesta [série de vídeos]().
 
