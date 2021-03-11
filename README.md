@@ -12,7 +12,7 @@
 
 Favor preencher [o formulário para efetuar a Matrícula - clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSftrdxvglfqxXsaa9uma2tDCJ6wXi27sJLgXR3uJJB9cYUfIQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7628) em
  * INF792 - Tópicos Especiais III - Introdução ao Aprendizado de Máquina
- * INF790 - Tópicos Especiais I - Seminários em Aprendizado de Máquina
+ * [INF790 - Tópicos Especiais I - Seminários em Aprendizado de Máquina](https://github.com/arduinoufv/INF790)
 
 As disciplinas são independentes. A disciplina INF790 complementa INF792 com uma série de seminários com palestrantes especialistas em vários dominios. 
 Os temas e palestrantes estão disponíveis [neste link](https://github.com/arduinoufv/INF790).
