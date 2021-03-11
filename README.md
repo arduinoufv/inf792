@@ -1,3 +1,13 @@
+# Local
+
+[Sala do Meeting](https://meet.google.com/ibh-nesh-buz) - Usar email da UFV.
+
+# Horários
+
+* INF792: Terça 10-12, Sexta 10-11
+* INF790: Sexta 11-12
+
+
 # INF792 Introdução ao Aprendizado de Máquina
 
 Favor preencher [o formulário para efetuar a Matrícula - clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSftrdxvglfqxXsaa9uma2tDCJ6wXi27sJLgXR3uJJB9cYUfIQ/viewform?vc=0&c=0&w=1&flr=0&gxids=7628) em
@@ -10,14 +20,6 @@ Os temas e palestrantes estão disponíveis [neste link](https://github.com/ardu
 A ementa de INF792 está disponível [neste link](https://github.com/arduinoufv/inf792/blob/main/ementa.md) e a proposta detalhada nesta [série de vídeos](https://www.youtube.com/playlist?list=PL-khHIKnEw7MEfuWyMcUuWVJeYJtf3kdQ) com [slides aqui](https://docs.google.com/presentation/d/18UrV7kkC00e5oi5AKdq-r78SLF6Hzw9kaWVUiAx-E30/edit?usp=sharing)
 
 
-# Horários
-
-* INF792: Terça 10-12, Sexta 10-11
-* INF790: Sexta 11-12
-
-# Local
-
-Sala do Meeting a ser divulgada em breve
 
 
 
