@@ -4,8 +4,8 @@
 
 # Horários
 
-* INF792: Terça 10-12, Sexta 10-11
-* INF790: Sexta 11-12
+* [INF792: Terça 10-12, Sexta 10-11](https://meet.google.com/ibh-nesh-buz)
+* [INF790: Sexta 11-12](https://meet.google.com/ibh-nesh-buz) 
 
 
 # INF792 Introdução ao Aprendizado de Máquina
