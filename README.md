@@ -9,7 +9,7 @@
 
 # INF 792 Material das Aulas
 
-* [Slides]()
+* [Slides](https://github.com/arduinoufv/inf792/tree/main/lectures)
 
 # INF792 Introdução ao Aprendizado de Máquina
 
