@@ -7,6 +7,9 @@
 * [INF792: Terça 10-12, Sexta 10-11](https://meet.google.com/ibh-nesh-buz)
 * [INF790: Sexta 11-12](https://meet.google.com/ibh-nesh-buz) 
 
+# INF 792 Material das Aulas
+
+* [Slides]()
 
 # INF792 Introdução ao Aprendizado de Máquina
 
