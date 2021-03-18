@@ -1,13 +1,13 @@
 # Survey - 30 pontos
 
-* Escrever um survey sobre as técnicas de aprendizado de máquina que estão sendo usadas na sua área de pesquisa.
-* Avaliar o survey de 3 colegas.
+* Escrever um survey sobre as técnicas de aprendizado de máquina que estão sendo usadas na sua área de pesquisa. **Prazo: 10 Junho**
+* Avaliar o survey de 3 colegas.**Prazo: 30 Junho**
 
 # Apresentação de dois artigos - 20 pontos
 
 * Elaborar a apresentação de dois artigos que aplicam pelo menos uma técnica de aprendizado de máquina na sua área de pesquisa.
-* Preparar os slides e um vídeo (10 minutos para cada artigo).
-* Avaliar a apresentação de 3 colegas.
+* Preparar os slides e um vídeo (10 minutos para cada artigo).**Prazo: 10 Junho**
+* Avaliar a apresentação de 3 colegas.**Prazo: 30 Junho**
 
 
 # Trabalhos e Exercícios  - 50 Pontos
