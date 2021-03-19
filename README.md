@@ -2,6 +2,10 @@
 
 [Sala do Meeting](https://meet.google.com/ibh-nesh-buz) - Usar email da UFV.
 
+# News
+
+[Segunda 22 MARCO as 8:30 - Palestra Int. Artificial: Estado Atual, Perspectivas e Desafios - Prof. Wagner Meira Junior](meet/google.com/mfk-yjwt-jdx)
+
 # Horários
 
 * [INF792: Terça 10-12, Sexta 10-11](https://meet.google.com/ibh-nesh-buz)
