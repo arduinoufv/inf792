@@ -1,3 +1,10 @@
+# Assignments 
+
+1. Beginner
+2. Intermediate
+3. Advanced
+
+
 # Laboratories
 
 1. [Cat and Dogs](https://colab.research.google.com/drive/1MrVHG5B0xJB83G4hz8fSfgBCn7PwHAoh?usp=sharing)
