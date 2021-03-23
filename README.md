@@ -4,8 +4,7 @@
 
 # News
 
-[Segunda 22 MARCO as 8:30 - Palestra Int. Artificial: Estado Atual, Perspectivas e Desafios - Prof. Wagner Meira Junior](meet/google.com/mfk-yjwt-jdx)
-* [abstract](https://raw.githubusercontent.com/arduinoufv/inf792/main/images_samples/1616073091240.jpeg)
+[22 Março, Prof. Wagner Meira, Inteligência Artificial, Estado Atual, Perspectivas e Desafios](https://www.youtube.com/watch?v=3iZa9nEm6_E)
 
 # Horários
 
