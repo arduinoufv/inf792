@@ -29,10 +29,10 @@ Dúvidas: ricardo@ufv.br, michael.canesche@ufv.br
 
 # Laboratories
 
-1.[Laboratório do Exemplo DeepLizard](https://colab.research.google.com/drive/1OdD34nvfzGAUjWvIpUh3XPULJ2eeyQSS?usp=sharing#scrollTo=rM3fT8otpMDh)
-2.[Laboratório CIFAR com uma rede 40 mil parametros](https://colab.research.google.com/drive/1078yR52_eyGdAVCVgtmKAlnJHBhfBl09?usp=sharing)
-3.[Laboratório CIFAR com uma rede 66 mil parametros]([Laboratório CIFAR com uma rede 40 mil parametros](https://colab.research.google.com/drive/1078yR52_eyGdAVCVgtmKAlnJHBhfBl09?usp=sharing)
-4.[Laboratório CIFAR com rede 110K paramêtros](https://colab.research.google.com/drive/1Aifzc6B7fIE5m7T731qFZzviIoGSDQQj?usp=sharing). 
+1. [Laboratório do Exemplo DeepLizard](https://colab.research.google.com/drive/1OdD34nvfzGAUjWvIpUh3XPULJ2eeyQSS?usp=sharing#scrollTo=rM3fT8otpMDh)
+2. [Laboratório CIFAR com uma rede 40 mil parametros](https://colab.research.google.com/drive/1078yR52_eyGdAVCVgtmKAlnJHBhfBl09?usp=sharing)
+3. [Laboratório CIFAR com uma rede 66 mil parametros]([Laboratório CIFAR com uma rede 40 mil parametros](https://colab.research.google.com/drive/1078yR52_eyGdAVCVgtmKAlnJHBhfBl09?usp=sharing)
+4. [Laboratório CIFAR com rede 110K paramêtros](https://colab.research.google.com/drive/1Aifzc6B7fIE5m7T731qFZzviIoGSDQQj?usp=sharing). 
 5. [Laboratório CIFAR com rede 1.6 milhões de paramêtros](https://colab.research.google.com/drive/11hDJ5NbBet9GyZHIHzD2HhYQdfBOVKnN?usp=sharing)
 
 
