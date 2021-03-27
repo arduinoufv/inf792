@@ -2,7 +2,7 @@
 
 [Video - Explicações Gerais](https://www.youtube.com/watch?v=Ug38GG3g28Q&list=PL-khHIKnEw7MFqHmeA5HFFQkPeRYTyi3_&index=1)
 
-[Video - Como irei enviar meu trabalho ?]() através do preenchimento do [formulário](https://docs.google.com/forms/d/e/1FAIpQLSf2zDS1YzRmEXeV6u24QYmm_bp_zzARTlC2PCGcyEbu3nFlTw/viewform?usp=sf_link), usando a conta de email da UFV.
+[Video - Como irei enviar meu trabalho ?](https://youtu.be/WZLP5J2YEAg) através do preenchimento do [formulário](https://docs.google.com/forms/d/e/1FAIpQLSf2zDS1YzRmEXeV6u24QYmm_bp_zzARTlC2PCGcyEbu3nFlTw/viewform?usp=sf_link), usando a conta de email da UFV.
 
 ## Beginner
 1. Rede Neural para uma simples regressão linear. Modificar o Colab para preços de casas que executa a predição para 0.5x+0.5, fazer a nova versão para encontrar a equação 4x+2. [colab click here](https://colab.research.google.com/drive/1v0M7WpayMW5ZWAGJCPk5ax3vWyFNr092?usp=sharing), para maiores informações [Vídeo com instruções](https://www.youtube.com/watch?v=HFCVhj62SGU&list=PL-khHIKnEw7MFqHmeA5HFFQkPeRYTyi3_&index=2)  
