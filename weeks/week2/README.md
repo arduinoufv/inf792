@@ -9,7 +9,7 @@ Numpy, Pandas, Matplotlib, Keras, Tensorflow
 
 [Video - Explicações Gerais](https://www.youtube.com/watch?v=Ug38GG3g28Q&list=PL-khHIKnEw7MFqHmeA5HFFQkPeRYTyi3_&index=1)
 
-[Video - Como irei enviar meu trabalho ?](https://youtu.be/WZLP5J2YEAg) através do preenchimento do [formulário - ainda será adicionado....](), usando a conta de email da UFV.
+[Video - Como irei enviar meu trabalho ?](https://youtu.be/WZLP5J2YEAg) através do preenchimento do [formulário](https://docs.google.com/forms/d/e/1FAIpQLSe5yQkTNYXCGqz5Nx6-bdI6H0EA0pgBcq5gIT7zhtZAMiJYhA/viewform?usp=sf_link), usando a conta de email da UFV.
 
 
 Dúvidas: ricardo@ufv.br, michael.canesche@ufv.br
