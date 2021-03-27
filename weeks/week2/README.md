@@ -24,7 +24,7 @@ Dúvidas: ricardo@ufv.br, michael.canesche@ufv.br
 
 ## Advanced
 
-1. Crie um novo laboratório para o Cifar10 que tem 4 opções de redes usando os modelos dos laboratórios 2,3,4 e 5 abaixo. O usuário poderá escolher o modelo, epoch, batch_size. O laboratório irá mostrar o gráfico de evolução da loss e da acurácia semelhante ao [Laboratório CIFAR com rede 110K paramêtros](https://colab.research.google.com/drive/1Aifzc6B7fIE5m7T731qFZzviIoGSDQQj?usp=sharing) como imprimir as imagens do conjunto de teste com label verde para certo e vermelho para errado. Deverá também imprimir o classification_report semelhante ao [Laboratório CIFAR com uma rede 66 mil parametros]([Laboratório CIFAR com uma rede 40 mil parametros](https://colab.research.google.com/drive/1078yR52_eyGdAVCVgtmKAlnJHBhfBl09?usp=sharing).
+1. Crie um novo laboratório para o Cifar10 que tem 4 opções de redes usando os modelos dos laboratórios 2,3,4 e 5 abaixo. O usuário poderá escolher o modelo, epoch, batch_size. O laboratório irá mostrar o gráfico de evolução da loss e da acurácia semelhante ao [Laboratório CIFAR com rede 110K paramêtros](https://colab.research.google.com/drive/1Aifzc6B7fIE5m7T731qFZzviIoGSDQQj?usp=sharing) como imprimir as imagens do conjunto de teste com label verde para certo e vermelho para errado. Deverá também imprimir o classification_report semelhante ao [Laboratório CIFAR com uma rede 40 mil parametros](https://colab.research.google.com/drive/1078yR52_eyGdAVCVgtmKAlnJHBhfBl09?usp=sharing).
 
 
 # Laboratories
