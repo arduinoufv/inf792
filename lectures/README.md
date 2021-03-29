@@ -7,12 +7,12 @@
 * [Week 5 - Convolution Networks SLIDES]() [Video]()
 * [Week 6 - Convolution Networks Architectures SLIDES]() [Video]()
 * [Week 7 - Data Visualization - Profa Sabrina Azevedo]() 
-* [Week 8 Initialization, Regularization, Hyperparameters]() [Video]()
+* [Week 8 Initialization, Regularization, Hyperparameters- Prof Nacif]() [Video]()
 * [Week 9 Sequence Models, RNN, LSTM]() [Video]()
 * [Week 10 Detection and Segmentation]() [Video]()
 * [Week 11 Computer Vision - Prof. Michel Silva]() [Video]()
 * [Week 12 Naive Bayes, SVM, KNN]() [Video]()
-* [Week 13 Decision Trees, Random Forest]() [Video]()
+* [Week 13 Decision Trees, Random Forest - Prof. Nacif]() [Video]()
 * 
 
 
