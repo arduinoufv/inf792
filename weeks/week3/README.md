@@ -6,6 +6,7 @@
 
 [Video - Como irei enviar meu trabalho ?](https://youtu.be/WZLP5J2YEAg) através do preenchimento do [formulário](https://docs.google.com/forms/d/e/1FAIpQLSdadDZhRTWZh_lUwIQwGCUUoNQCIdpvEWQCHHzLTZE8NNAAVA/viewform?usp=sf_link), usando a conta de email da UFV.
 
+* [Week 3 - Unsupervised Learn and Kmeans    SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vRgWvDE4ZvIt3Fni6NAPft6E4zBZTAw5HD6xjLxrBqe4wXkuznTJHCUCvFZX2plK8HNXo-gxShw0pei/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7OSsoHD5f8FfOGIC8CMa5yN)
 
 Dúvidas: ricardo@ufv.br
 
