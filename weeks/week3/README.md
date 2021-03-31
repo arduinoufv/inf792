@@ -19,20 +19,22 @@ Dúvidas: ricardo@ufv.br
 
 1. Fazer os exercício 4 e 5 do [Lab 05.11-K-Means](https://colab.research.google.com/drive/1KCCi7NrCxcHjboJ1I6k07lZsep-KFMuC?usp=sharing).
 2. Refazer o laboratório [Task2colab.ipynb](https://colab.research.google.com/github/VMD7/K-Means-Clustering-of-Iris-Dataset/blob/main/Task2colab.ipynb) com a tabela das medidas das amostras IRIS com apenas as 100 primeiras linhas, eliminando as 50 últimas.
-3. 
 
 ## Advanced
 
 1. Incluir no laboratório [Task2colab.ipynb](https://colab.research.google.com/github/VMD7/K-Means-Clustering-of-Iris-Dataset/blob/main/Task2colab.ipynb) o plot do diagrama de Voronoi apresentado na seção Decision Boundaries do [laboratório do Capítulo 9](https://colab.research.google.com/drive/1xc4YT726ntImzJ0DMdVTwvLMeuhIHhfL?usp=sharing).
 2. Para cada um dos 6  exemplos da seção k-means do [minicurso de Ciência de Dados](https://colab.research.google.com/drive/1p0ERZZ5j_ubwmUT_3dP_Gv-iL-qMnLA4#scrollTo=iSh95dYnVQRP) gerar a curva Inertia e criar um colab apenas com esta parte.
-```dataset = [blobs, aniso, varied, noisy_circles, noisy_moons, no_structure]
+```
+dataset = [blobs, aniso, varied, noisy_circles, noisy_moons, no_structure]
 n_groups = [3, 3, 3, 2, 2, 3]
 colors = exec_model(dataset, cluster.KMeans, n_groups)
-plot_figure_example(colors)``` 
+plot_figure_example(colors)
+``` 
 
 # Laboratories
 
 1. [Lab 05.11-K-Means](https://colab.research.google.com/drive/1KCCi7NrCxcHjboJ1I6k07lZsep-KFMuC?usp=sharing)
 2.  [Task2colab.ipynb](https://colab.research.google.com/github/VMD7/K-Means-Clustering-of-Iris-Dataset/blob/main/Task2colab.ipynb)
 3.  [laboratório do Capítulo 9](https://colab.research.google.com/drive/1xc4YT726ntImzJ0DMdVTwvLMeuhIHhfL?usp=sharing)
+4.  [minicurso de Ciência de Dados](https://colab.research.google.com/drive/1p0ERZZ5j_ubwmUT_3dP_Gv-iL-qMnLA4#scrollTo=iSh95dYnVQRP)
 
