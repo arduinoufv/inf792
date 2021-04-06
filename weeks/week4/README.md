@@ -12,7 +12,8 @@ Dúvidas: ricardo@ufv.br
 1. 
 ## Intermediate
 
-1. 
+1. Criar um colab que implemente o exemplo com 3 neurônios, depois com 30 neurônios para a função Seno com um ruĩdo como explicado no [vídeo do Prof. Antonio Braga](https://www.youtube.com/watch?v=4TnrLrvEiU4&list=PL9LlC0pBeCU9mQV8G7SQbyXG7y-tW5uab&index=4). Use Numpy para gerar seus dados de entrada. 
+
 ## Advanced
 
 
