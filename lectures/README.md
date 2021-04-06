@@ -3,7 +3,7 @@
 
 * [Week 2 - Tools: Python, NumPy, Pandas, Sklearn, Keras, TensorFlow    SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vQmTWR8lje4hd619-gXVBJbwytqmMK8fzH9kpgqnww9QB7KcsC1pE0dh3aZXK3t_wA_f_EVI4ebBr0G/pub?start=false&loop=false&delayms=3000)  - [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7NoOjYO5b11A_LJQ0Ot804R) 
 * [Week 3 - Unsupervised Learn and Kmeans    SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vRgWvDE4ZvIt3Fni6NAPft6E4zBZTAw5HD6xjLxrBqe4wXkuznTJHCUCvFZX2plK8HNXo-gxShw0pei/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7OSsoHD5f8FfOGIC8CMa5yN)
-* [Week 4 - Neural Networks    SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSqVGe06rL9WJcwata7SmP9tnLX8RTR0rUoUVlqI_qHhwZ8GFNEfs3UM8BkVK5_SlmFAQN0wg67iMlL/pub?start=false&loop=false&delayms=3000) [Video]() , material do Prof. Antonio Braga, UFMG [Unidade 1 - Redes Neurais](https://www.youtube.com/playlist?list=PL9LlC0pBeCU9mQV8G7SQbyXG7y-tW5uab)
+* [Week 4 - Neural Networks    SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSqVGe06rL9WJcwata7SmP9tnLX8RTR0rUoUVlqI_qHhwZ8GFNEfs3UM8BkVK5_SlmFAQN0wg67iMlL/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7PzsO4cJISpSPsm_dDtullr) , material do Prof. Antonio Braga, UFMG [Unidade 1 - Redes Neurais](https://www.youtube.com/playlist?list=PL9LlC0pBeCU9mQV8G7SQbyXG7y-tW5uab)
 * [Week 5 - Convolution Networks SLIDES]() [Video]()
 * [Week 6 - Convolution Networks Architectures SLIDES]() [Video]()
 * [Week 7 - Data Visualization - Profa Sabrina Azevedo]() 
