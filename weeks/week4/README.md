@@ -9,7 +9,9 @@ Dúvidas: ricardo@ufv.br
 
 ## Beginner
 
-1. 
+1. Completar as tabelas no início do [Colab Mnist com rede densa](https://colab.research.google.com/drive/1xbczKQA9thdcbw1H-aiz5pb_v9_r6JzW?usp=sharing). Você terá que executar o treinamento várias vezes modificando os hiper-parametros. Lembre-se que se voce já treinou 10 epochs, ao executar o model.fit novamente irá continuar o processo. Para começar do zero, tem que redefinir o modelo.
+
+
 ## Intermediate
 
 1. Criar um colab que implemente o exemplo com 3 neurônios, depois com 30 neurônios para a função Seno com um ruĩdo como explicado no [vídeo do Prof. Antonio Braga](https://www.youtube.com/watch?v=4TnrLrvEiU4&list=PL9LlC0pBeCU9mQV8G7SQbyXG7y-tW5uab&index=4). Use Numpy para gerar seus dados de entrada. 
