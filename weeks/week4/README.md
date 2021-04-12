@@ -1,6 +1,6 @@
 # Neural Network
 
-# Assignments - PRAZO PARA ENTREGA: ....
+# Assignments - PRAZO PARA ENTREGA: 19/4/2021
 [Video - Explicações Gerais](https://www.youtube.com/watch?v=Ug38GG3g28Q&list=PL-khHIKnEw7MFqHmeA5HFFQkPeRYTyi3_&index=1)
 
 [Video - Como irei enviar meu trabalho ?](https://youtu.be/WZLP5J2YEAg) através do preenchimento do [formulário](https://docs.google.com/forms/d/e/1FAIpQLSdadDZhRTWZh_lUwIQwGCUUoNQCIdpvEWQCHHzLTZE8NNAAVA/viewform?usp=sf_link), usando a conta de email da UFV.
@@ -18,7 +18,7 @@ Dúvidas: ricardo@ufv.br
 
 ## Advanced
 
-
+1. Adaptar o [laboratório do exemplo de doenças cardiacas para o exemplo](https://colab.research.google.com/drive/1v7T572eh3rtfauYRaTD9LN_Hb8L9-Ebt?usp=sharing) do Titanic.
 
 # Laboratories
 
