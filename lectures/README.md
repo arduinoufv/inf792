@@ -5,7 +5,7 @@
 * [Week 3 - Unsupervised Learn and Kmeans    SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vRgWvDE4ZvIt3Fni6NAPft6E4zBZTAw5HD6xjLxrBqe4wXkuznTJHCUCvFZX2plK8HNXo-gxShw0pei/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7OSsoHD5f8FfOGIC8CMa5yN)
 * [Week 4 - Neural Networks    SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSqVGe06rL9WJcwata7SmP9tnLX8RTR0rUoUVlqI_qHhwZ8GFNEfs3UM8BkVK5_SlmFAQN0wg67iMlL/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7PzsO4cJISpSPsm_dDtullr) , material do Prof. Antonio Braga, UFMG [Unidade 1 - Redes Neurais](https://www.youtube.com/playlist?list=PL9LlC0pBeCU9mQV8G7SQbyXG7y-tW5uab)
 * [Week 5 - Convolution Networks SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vT3TNv3Ug3hjmQlAIo7lJWAM1tfmXK5eVdGYsfRw4EHPtjRQbA2mN7df3gh1zsV6R2dS7ugP_uoJ9KA/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7NiTIEB5yGoEDZGaWRS-rK_)
-* [Week 6 - Convolution Networks Architectures SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vRiONN8MTxu6MR7LEr2LI0-9jitsIopZ0M4GxnmDOBq4InF7dvVDEH7IWIiiSBZSrbyFDjXFY4mcnLp/pub?start=false&loop=false&delayms=3000) [Video]()
+* [Week 6 - Convolution Networks Architectures SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vRiONN8MTxu6MR7LEr2LI0-9jitsIopZ0M4GxnmDOBq4InF7dvVDEH7IWIiiSBZSrbyFDjXFY4mcnLp/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7MzURdDabpInbBW72RGJzpj)
 * [Week 7 - Data Visualization - Profa Sabrina Azevedo]() 
 * [Week 8 Initialization, Regularization, Hyperparameters- Prof Nacif]() [Video]()
 * [Week 9 Sequence Models, RNN, LSTM]() [Video]()
