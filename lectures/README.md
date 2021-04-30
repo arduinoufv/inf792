@@ -7,6 +7,15 @@
 * [Week 5 - Convolution Networks SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vT3TNv3Ug3hjmQlAIo7lJWAM1tfmXK5eVdGYsfRw4EHPtjRQbA2mN7df3gh1zsV6R2dS7ugP_uoJ9KA/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7NiTIEB5yGoEDZGaWRS-rK_)
 * [Week 6 - Convolution Networks Architectures SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vRiONN8MTxu6MR7LEr2LI0-9jitsIopZ0M4GxnmDOBq4InF7dvVDEH7IWIiiSBZSrbyFDjXFY4mcnLp/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7MzURdDabpInbBW72RGJzpj)
 * [Week 7 - Data Visualization - Profa Sabrina Azevedo](https://github.com/arduinoufv/inf792/blob/main/lectures/INF792_Introducao_aprendizagem_maquina_v02%20(1).pdf) -  [Video](https://youtu.be/4cu7sBFYWjo)
+## Links
+* [ex1](https://community.storytellingwithdata.com/exercises/table-takeaways#submit-exercise)
+* [ex2](https://community.storytellingwithdata.com/exercises/presenting-a-scatterplot)
+* [ex3](https://community.storytellingwithdata.com/exercises/reduce-complexity-2)
+## Tools
+* [Colab: pandas and matplot](https://colab.research.google.com/notebooks/charts.ipynb)
+* [Data-Driven Documents](https://d3js.org/)
+* [Data visualization made easy.](https://d3plus.org/)
+* 
 * [Week 8 Initialization, Regularization, Hyperparameters- Prof Nacif]() [Video]()
 * [Week 9 Sequence Models, RNN, LSTM]() [Video]()
 * [Week 10 Detection and Segmentation]() [Video]()
