@@ -6,7 +6,7 @@
 * [Week 4 - Neural Networks    SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vSqVGe06rL9WJcwata7SmP9tnLX8RTR0rUoUVlqI_qHhwZ8GFNEfs3UM8BkVK5_SlmFAQN0wg67iMlL/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7PzsO4cJISpSPsm_dDtullr) , material do Prof. Antonio Braga, UFMG [Unidade 1 - Redes Neurais](https://www.youtube.com/playlist?list=PL9LlC0pBeCU9mQV8G7SQbyXG7y-tW5uab)
 * [Week 5 - Convolution Networks SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vT3TNv3Ug3hjmQlAIo7lJWAM1tfmXK5eVdGYsfRw4EHPtjRQbA2mN7df3gh1zsV6R2dS7ugP_uoJ9KA/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7NiTIEB5yGoEDZGaWRS-rK_)
 * [Week 6 - Convolution Networks Architectures SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vRiONN8MTxu6MR7LEr2LI0-9jitsIopZ0M4GxnmDOBq4InF7dvVDEH7IWIiiSBZSrbyFDjXFY4mcnLp/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7MzURdDabpInbBW72RGJzpj)
-* [Week 7 - Data Visualization - Profa Sabrina Azevedo](https://github.com/arduinoufv/inf792/blob/main/lectures/INF792_Introducao_aprendizagem_maquina_v02%20(1).pdf) -  [Video](https://youtu.be/4cu7sBFYWjo)
+* [Week 7 - Data Visualization - Profa Sabrina Azevedo](https://github.com/arduinoufv/inf792/blob/main/lectures/INF792_Introducao_aprendizagem_maquina_v02%20(1).pdf) -  [Video](https://youtu.be/-Rh9vFSe4o4)
 ## Links
 * [ex1](https://community.storytellingwithdata.com/exercises/table-takeaways#submit-exercise)
 * [ex2](https://community.storytellingwithdata.com/exercises/presenting-a-scatterplot)
