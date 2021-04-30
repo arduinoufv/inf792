@@ -11,6 +11,7 @@
 * [ex1](https://community.storytellingwithdata.com/exercises/table-takeaways#submit-exercise)
 * [ex2](https://community.storytellingwithdata.com/exercises/presenting-a-scatterplot)
 * [ex3](https://community.storytellingwithdata.com/exercises/reduce-complexity-2)
+* [ex4](https://community.storytellingwithdata.com/exercises/practice-providing-feedback)
 ## Tools
 * [Colab: pandas and matplot](https://colab.research.google.com/notebooks/charts.ipynb)
 * [Data-Driven Documents](https://d3js.org/)
