@@ -17,7 +17,7 @@
 * [Colab: pandas and matplot](https://colab.research.google.com/notebooks/charts.ipynb)
 * [Data-Driven Documents](https://d3js.org/)
 * [Data visualization made easy.](https://d3plus.org/)
-* 
+##
 * [Week 8 Initialization, Regularization, Hyperparameters- Prof Nacif]() [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7MITwlrJjMAxvTrWNgQftRX)
 * [Week 9 Sequence Models, RNN, LSTM]() [Video]()
 * [Week 10 Detection and Segmentation]() [Video]()
