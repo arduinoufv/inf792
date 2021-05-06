@@ -1,7 +1,7 @@
 # Assignments - PRAZO PARA ENTREGA: 18/5/2021
 [Video - Explicações Gerais](https://www.youtube.com/watch?v=Ug38GG3g28Q&list=PL-khHIKnEw7MFqHmeA5HFFQkPeRYTyi3_&index=1)
 
-[Video - Como irei enviar meu trabalho ?](https://youtu.be/WZLP5J2YEAg) através do preenchimento do [formulário](), usando a conta de email da UFV.
+[Video - Como irei enviar meu trabalho ?](https://youtu.be/WZLP5J2YEAg) através do preenchimento do [formulário](https://forms.gle/DmZSmMDqjtie1fR1A), usando a conta de email da UFV.
 
 Dúvidas: ricardo@ufv.br , Pedro Romeiro <pedro.sebastiao@ufv.br>
 
