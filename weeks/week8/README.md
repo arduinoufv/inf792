@@ -3,7 +3,7 @@
 
 [Video - Como irei enviar meu trabalho ?](https://youtu.be/WZLP5J2YEAg) através do preenchimento do [formulário](), usando a conta de email da UFV.
 
-Dúvidas: ricardo@ufv.br
+Dúvidas: ricardo@ufv.br , Pedro Romeiro <pedro.sebastiao@ufv.br>
 
 # Beginners
 1. [Fazer o colab básico de Python](https://colab.research.google.com/drive/1k5ydAu1xMRItaPliMOMcN2L0jJvK_Vwy?usp=sharing)
