@@ -19,7 +19,7 @@
 * [Data visualization made easy.](https://d3plus.org/)
 ##
 * [Week 8 Initialization, Regularization, Hyperparameters- Prof Nacif]() [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7MITwlrJjMAxvTrWNgQftRX)
-* [Week 9 Sequence Models, RNN, LSTM]() [Video]()
+* [Week 9 Sequence Models, RNN, LSTM](https://docs.google.com/presentation/d/e/2PACX-1vRAy2M-ymVYbbCm5sN4uCdilLpAlRwYAmL-hBHFk_7VP_8jEpYcOJfl9mmUXL7aLBhHuc51Tc7zUvkS/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7N0fQtVWFEun-acncLv-blK)
 * [Week 10 Detection and Segmentation]() [Video]()
 * [Week 11 Computer Vision - Prof. Michel Silva]() [Video]()
 * [Week 12 Naive Bayes, SVM, KNN]() [Video]()
