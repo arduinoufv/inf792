@@ -23,10 +23,11 @@
 * [Week 10 Detection and Segmentation](https://docs.google.com/presentation/d/e/2PACX-1vQCs8geSSU02wb0ShH5A1OY7yHiNa0NY0hSEq5_jaUrXaht-N2iRJ3H1h4i2LAvCcTuKkC6V3VSjeBA/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7OSjRiXn3Z6S3-205dxZU8u)
 * Week 11   
 ## Computer Vision - Prof. Michel Silva
+* [Slides](https://docs.google.com/presentation/d/17Ii9qOYVhFwG6O6XOTuFghSI_8ETUtJhiQwHHdPf_ZQ/edit?usp=sharing)
 * [Video Parte I](https://youtu.be/n2oSw2QFCsU)
 * [Video Parte II- Encoder e Decoder, GAN](https://youtu.be/S0GS6lCkeEE)
-* Colabs: [Primeiro Colab FashionMnist - Encoder-Decoder]()
-* [Segundo Colab com 17 classes de Flores]()
+* Colabs: [Primeiro Colab FashionMnist - Encoder-Decoder](https://colab.research.google.com/drive/1yY7v-SRUhMi4c8dOO4I9ZK5jKhbpck-y?usp=sharing )
+* [Segundo Colab com 17 classes de Flores](https://colab.research.google.com/drive/1aUnJQMQ9N87IuDJjPpEl0S3Iv3tS6Jg_?usp=sharing)
 ##
 * [Week 12 Naive Bayes, SVM, KNN]() [Video]()
 * [Week 13 Decision Trees, Random Forest - Prof. Nacif]() [Video]()
