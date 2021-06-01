@@ -29,7 +29,7 @@
 * Colabs: [Primeiro Colab FashionMnist - Encoder-Decoder](https://colab.research.google.com/drive/1yY7v-SRUhMi4c8dOO4I9ZK5jKhbpck-y?usp=sharing )
 * [Segundo Colab com 17 classes de Flores](https://colab.research.google.com/drive/1aUnJQMQ9N87IuDJjPpEl0S3Iv3tS6Jg_?usp=sharing)
 ##
-* [Week 12 Naive Bayes, SVM, KNN]() [Video]()
+* [Week 12 Naive Bayes, SVM, KNN](https://www.youtube.com/playlist?list=PL-khHIKnEw7NeTvFGkLGqv9-xxpVQr-Nh) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7NeTvFGkLGqv9-xxpVQr-Nh)
 * [Week 13 Decision Trees, Random Forest - Prof. Nacif]() [Video]()
 * 
 
