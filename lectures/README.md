@@ -30,7 +30,7 @@
 * [Segundo Colab com 17 classes de Flores](https://colab.research.google.com/drive/1aUnJQMQ9N87IuDJjPpEl0S3Iv3tS6Jg_?usp=sharing)
 ##
 * [Week 12 Naive Bayes, SVM, KNN](https://www.youtube.com/playlist?list=PL-khHIKnEw7NeTvFGkLGqv9-xxpVQr-Nh) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7NeTvFGkLGqv9-xxpVQr-Nh)
-* [Week 13 Decision Trees, Random Forest - Prof. Nacif]() [Video]()
+* [Week 13 Decision Trees, Random Forest - Prof. Nacif](https://docs.google.com/presentation/d/1ErTFzRMf0te_mA9OQaDJUUPIVeKJzrTRXqmSyy4bAlk/edit?usp=sharing) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7Nfw2Vl6rPDBvj_EG3HwRQz)
 * 
 
 
