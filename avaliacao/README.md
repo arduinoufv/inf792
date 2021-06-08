@@ -4,6 +4,10 @@
 * [Link para enviar o seu survey](https://forms.gle/bv6PinW1QpiigJo86)
 * Avaliar o survey de 3 colegas.**Prazo: 30 Junho**
 * [Link para ver como será avaliado o survey](https://forms.gle/9Cdm8CZWidKq2CFY6)
+* [Exemplo de Survey para internet das coisas (muito grande), proposta é fazer uma versão resumida com 6-10 trabalhos](https://www.sciencedirect.com/science/article/pii/S235286481730247X)
+* [Bom exemplo para doencas cardíacas](https://www.researchgate.net/profile/V-V-Ramalingam/publication/325116774_Heart_disease_prediction_using_machine_learning_techniques_A_survey/links/5d48560a299bf1995b68266f/Heart-disease-prediction-using-machine-learning-techniques-A-survey.pdf)
+* [Versão mais detalhada para o mesmo problema de doencas cardíacas](https://dl.acm.org/doi/abs/10.1145/3318299.3318343?casa_token=91bJshT3se0AAAAA%3AohsxP5sZ0XnjEIApZJB7jO4Irt-rgijI0jN2M_OASv-wSZxpfZkPrmVR4DOStvxb4Jypn2ZhDg-vCQ)
+* [Exemplo para Predição de Tempo](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8819643&casa_token=4mL2mW-NzXwAAAAA:CcKh6HInSUJ3Gjnb1i7altZhdLvKZBkq3jUex3Dk_RkWCRJvCN7FXfOMVq4sSbc5jrepQZayd6s&tag=1)
 
 
 
