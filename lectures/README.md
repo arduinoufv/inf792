@@ -18,7 +18,7 @@
 * [Data-Driven Documents](https://d3js.org/)
 * [Data visualization made easy.](https://d3plus.org/)
 ##
-* [Week 8 Initialization, Regularization, Hyperparameters- Prof Nacif]() [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7MITwlrJjMAxvTrWNgQftRX)
+* [Week 8 Initialization, Regularization, Hyperparameters- Prof Nacif](https://docs.google.com/presentation/d/1wdeqbGzckhF5vRtUMQMgn7sU8-BZuCBdtWS-H70-uyA/edit#slide=id.gd5edf05a8b_0_402) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7MITwlrJjMAxvTrWNgQftRX)
 * [Week 9 Sequence Models, RNN, LSTM](https://docs.google.com/presentation/d/e/2PACX-1vRAy2M-ymVYbbCm5sN4uCdilLpAlRwYAmL-hBHFk_7VP_8jEpYcOJfl9mmUXL7aLBhHuc51Tc7zUvkS/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7N0fQtVWFEun-acncLv-blK)
 * [Week 10 Detection and Segmentation](https://docs.google.com/presentation/d/e/2PACX-1vQCs8geSSU02wb0ShH5A1OY7yHiNa0NY0hSEq5_jaUrXaht-N2iRJ3H1h4i2LAvCcTuKkC6V3VSjeBA/pub?start=false&loop=false&delayms=3000) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7OSjRiXn3Z6S3-205dxZU8u)
 * Week 11   
