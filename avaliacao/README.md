@@ -3,7 +3,10 @@
 * Escrever um survey sobre as técnicas de aprendizado de máquina que estão sendo usadas na sua área de pesquisa. **Prazo: 14 Junho**
 * [Link para enviar o seu survey](https://forms.gle/bv6PinW1QpiigJo86)
 * Avaliar o survey de 3 colegas.**Prazo: 30 Junho**
-* [Link para ver como será avaliado o survey](https://forms.gle/9Cdm8CZWidKq2CFY6)
+* [Link para baixar os Surveys dos colegas](https://docs.google.com/spreadsheets/d/12NYRhRxRLziG5eGRRTn9BSD5SuKFmOsbue1ero4aQ-g/edit?usp=sharing)
+Você irá avaliar os surveys T1,T2,T3 que tem os nomes dos colegas na sua linha da planilha. A última coluna de cada linha tem o survey do aluno.
+* [Depois de ler o survey, enivar sua revisão, você poderá editar a revisão depois de submeter, se necessário](https://forms.gle/9Cdm8CZWidKq2CFY6)
+
 ## Exemplos
 * [Exemplo de Survey para internet das coisas (muito grande), proposta é fazer uma versão resumida com 6-10 trabalhos](https://www.sciencedirect.com/science/article/pii/S235286481730247X)
 * [Bom exemplo para doencas cardíacas](https://www.researchgate.net/profile/V-V-Ramalingam/publication/325116774_Heart_disease_prediction_using_machine_learning_techniques_A_survey/links/5d48560a299bf1995b68266f/Heart-disease-prediction-using-machine-learning-techniques-A-survey.pdf)
