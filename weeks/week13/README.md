@@ -10,5 +10,8 @@ Os vídeos a seguir ensinam como fazer as anotações:
 * [Vídeo com as explicações]()
 * [Video da Aula com as explicações](https://youtu.be/sE0uv4b6Xgc)
 
+
+Uma vez finalizado, os resultados serão [apresentados no colab]()
+
 Qualquer dúvida escreve para jeronimopenha@gmail.com 
 
