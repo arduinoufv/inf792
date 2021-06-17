@@ -7,11 +7,11 @@
 * As imagens estão [disponíveis aqui](https://github.com/lesc-ufv/inf792_images)
 
 Os vídeos a seguir ensinam como fazer as anotações:
-* [Vídeo com as explicações]()
+* [Vídeo com as explicações](https://www.youtube.com/watch?v=mUXNICjEQPo)
 * [Video da Aula com as explicações](https://youtu.be/sE0uv4b6Xgc)
 
 
-Uma vez finalizado, os resultados serão [apresentados no colab]()
+Uma vez finalizado, os resultados serão [apresentados no colab](https://drive.google.com/file/d/1A5jDjV1gKtSTWNhfRtdAkEjsai_RR6rJ/view?usp=sharing)
 
 Qualquer dúvida escreve para jeronimopenha@gmail.com 
 
