@@ -11,11 +11,11 @@ Os vídeos a seguir ensinam como fazer as anotações:
 * [Video da Aula com as explicações](https://youtu.be/sE0uv4b6Xgc)
 
 
-Uma vez finalizado, os resultados serão [apresentados no colab](https://drive.google.com/file/d/1A5jDjV1gKtSTWNhfRtdAkEjsai_RR6rJ/view?usp=sharing)
+Uma vez finalizado, os resultados serão apresentados nos
 
 *[Colab Tomates](https://colab.research.google.com/drive/1zrysZTX8wKpyJHBKvaWoykqIAj_Yazef?usp=sharing)
 
-*[Colag Milho:] (https://colab.research.google.com/drive/1LNU4XxMDSz2Lo5WEp4ZLB6tIO1Yny5EP?usp=sharing)
+*[Colag Milho:](https://colab.research.google.com/drive/1LNU4XxMDSz2Lo5WEp4ZLB6tIO1Yny5EP?usp=sharing)
 
 
 
