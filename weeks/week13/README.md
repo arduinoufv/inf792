@@ -20,5 +20,5 @@ Uma vez finalizado, os resultados serão apresentados nos
 
 
 
-Qualquer dúvida escreve para jeronimopenha@gmail.com 
+Qualquer dúvida, entrar em contato com jeronimopenha@gmail.com 
 
