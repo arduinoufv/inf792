@@ -32,6 +32,6 @@
 * [Week 12 Naive Bayes, SVM, KNN](https://www.youtube.com/playlist?list=PL-khHIKnEw7NeTvFGkLGqv9-xxpVQr-Nh) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7NeTvFGkLGqv9-xxpVQr-Nh)
 * [Week 13 Decision Trees, Random Forest - Prof. Nacif](https://docs.google.com/presentation/d/1ErTFzRMf0te_mA9OQaDJUUPIVeKJzrTRXqmSyy4bAlk/edit?usp=sharing) [Video](https://www.youtube.com/playlist?list=PL-khHIKnEw7Nfw2Vl6rPDBvj_EG3HwRQz)
 * [Week 14 - Take away: Weeks 1 to 4](https://www.youtube.com/playlist?list=PL-khHIKnEw7Ozbd2bUNA3gc_o_EzU_uye)
-* [Week 15 - Take away: Weeks 5 to ...](https://www.youtube.com/playlist?list=PL-khHIKnEw7OG1jvMC9CCWhc5HkDAkwh4)
-
+* [Week 15 - Take away: Weeks 5 to 9](https://www.youtube.com/playlist?list=PL-khHIKnEw7OG1jvMC9CCWhc5HkDAkwh4)
+* [Week 16 - Take away: Weeks 12 to 13](https://www.youtube.com/playlist?list=PL-khHIKnEw7M9sqlgN7sJSlky1NYp9inO)
 
