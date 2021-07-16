@@ -1,3 +1,12 @@
+
+Este  trabalho foi desenvolvido de forma colaborativa, onde cada aluno marcou de 5 a 8 imagens. Foram usados dois conjuntos de imagens. Como resultado temos a contagem de insetos. Primeiro apresentamos o resultado final que foi executado com um notebook Jupyter em uma máquina do Dpto de Informática. Em função de pequenas alterações no Google Colab, o notebook não estava funcionando corretamente. Em breve, iremos atualizar a sequência para funcionar no Google Colab novamente.
+
+# Videos com a apresentação da Solução
+
+[Caruncho do Milho]( https://youtu.be/Kxma8RkTNxM)
+[Traça do Tomateiro](https://www.youtube.com/watch?v=gL1_-0NReRY)
+
+
 # Trabalho de Marcação de Imagens - Prazo 28/6/2021
 
 * Cada aluno irá anotar as imagens seguindo [esta distribuição - clique aqui](https://docs.google.com/spreadsheets/d/1yuqkoICLzbbJn0CJztKzaitfaZHM91Ns8DWyqZ9cwUA/edit?usp=sharing)
