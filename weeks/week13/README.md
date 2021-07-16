@@ -3,8 +3,8 @@ Este  trabalho foi desenvolvido de forma colaborativa, onde cada aluno marcou de
 
 # Videos com a apresentação da Solução
 
-[Caruncho do Milho]( https://youtu.be/Kxma8RkTNxM)
-[Traça do Tomateiro](https://www.youtube.com/watch?v=gL1_-0NReRY)
+* [Caruncho do Milho]( https://youtu.be/Kxma8RkTNxM)
+* [Traça do Tomateiro](https://www.youtube.com/watch?v=gL1_-0NReRY)
 
 
 # Trabalho de Marcação de Imagens - Prazo 28/6/2021
